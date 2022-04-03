@@ -1,8 +1,8 @@
-html {
+:root {
+    --color-primary: blue;
+    --color-secondary: rgb(11, 226, 230);
+    --color-accent: rgb(224, 17, 17);
+    --color-headings: pink;
+    --color-body: grey;
 
 }
-yoza {}
-
-hello {}
-byebye {}
-hello {}
