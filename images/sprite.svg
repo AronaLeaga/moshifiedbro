@@ -1,0 +1,59 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="chevron">
+    <title>taxi</title>
+    <g>
+      <path d="M1.5,7.5h13a1,1,0,0,1,1,1v4a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0v-4a1,1,0,0,1,1-1Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></path>
+      <path d="M1.5,7.5,3.249,3.129A1,1,0,0,1,4.177,2.5h7.646a1,1,0,0,1,.928.629L14.5,7.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></path>
+      <polyline points="6.5 2.5 6.5 0.5 9.5 0.5 9.5 2.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></polyline>
+      <circle cx="3.5" cy="10" r="1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></circle>
+      <circle cx="12.5" cy="10" r="1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></circle>
+      <polyline points="3.5 12.5 3.5 14.5 1.5 14.5 1.5 12.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></polyline>
+      <polyline points="14.5 12.5 14.5 14.5 12.5 14.5 12.5 12.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></polyline>
+      <polygon points="6 9 7 11 9 11 10 9 6 9" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></polygon>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="clock">
+    <title>support</title>
+    <g>
+      <path d="M1.02,11.51l2.39-.76a9.266,9.266,0,0,0,1.63,3.13L3.13,15.5a12.009,12.009,0,0,1,0-15L5.04,2.12A9.266,9.266,0,0,0,3.41,5.25L1.02,4.49" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></path>
+      <path d="M7.5,14.32A6.162,6.162,0,0,0,9,14.5a6.5,6.5,0,0,0,0-13,6.162,6.162,0,0,0-1.5.18" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></path>
+      <path d="M8.5,9.5h-2v-1a1,1,0,0,1,1-1h0a1,1,0,0,0,1-1h0a1,1,0,0,0-1-1h-1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></path>
+      <line x1="12.5" y1="5.5" x2="12.5" y2="9.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></line>
+      <polyline points="11 5.5 10.5 7.5 12.5 7.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></polyline>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="easy">
+    <title>beer</title>
+    <g>
+      <path d="M11.5,5.31V14A1.5,1.5,0,0,1,10,15.5H3A1.5,1.5,0,0,1,1.5,14V5.31" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></path>
+      <path d="M11.5,6.5h2a1,1,0,0,1,1,1v4a1,1,0,0,1-1,1h-2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></path>
+      <path d="M8.49,2.7a1.275,1.275,0,0,0,.01-.2,2,2,0,0,0-4,0,1.275,1.275,0,0,0,.01.2A1.972,1.972,0,0,0,3,2,2,2,0,0,0,3,6a1.679,1.679,0,0,0,.5-.07V7.5a1,1,0,0,0,2,0V5.81A1.976,1.976,0,0,0,7,6.5a2.033,2.033,0,0,0,1.72-.97A1.94,1.94,0,0,0,10,6a2,2,0,0,0,0-4A1.972,1.972,0,0,0,8.49,2.7Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></path>
+      <line x1="8.5" y1="8.5" x2="8.5" y2="12.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></line>
+      <line x1="4.5" y1="8.5" x2="4.5" y2="12.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></line>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="growth">
+    <title>isometric-graph</title>
+    <g>
+      <polygon points="4.5 2.5 0.5 2.5 2.5 0.5 6.5 0.5 4.5 2.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></polygon>
+      <polygon points="8.5 6.5 4.5 6.5 6.5 4.5 10.5 4.5 8.5 6.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></polygon>
+      <polygon points="12.5 10.5 8.5 10.5 10.5 8.5 14.5 8.5 12.5 10.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></polygon>
+      <polyline points="14.5 13.5 12.5 15.5 0.5 15.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></polyline>
+      <line x1="0.5" y1="2.5" x2="0.5" y2="15.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></line>
+      <line x1="4.5" y1="2.5" x2="4.5" y2="15.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></line>
+      <line x1="8.5" y1="6.5" x2="8.5" y2="15.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></line>
+      <line x1="12.5" y1="10.5" x2="12.5" y2="15.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></line>
+      <line x1="14.5" y1="8.5" x2="14.5" y2="13.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></line>
+      <line x1="10.5" y1="4.5" x2="10.5" y2="8.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></line>
+      <line x1="6.5" y1="0.5" x2="6.5" y2="4.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></line>
+    </g>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="line">
+    <title>message</title>
+    <g>
+      <path d="M10.6,12.5,8,15.5l-2.5-3H2A1.5,1.5,0,0,1,.5,11V2A1.5,1.5,0,0,1,2,.5H14A1.5,1.5,0,0,1,15.5,2v9A1.5,1.5,0,0,1,14,12.5Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></path>
+      <line x1="4.5" y1="7.5" x2="8.5" y2="7.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></line>
+      <line x1="4.5" y1="4.5" x2="11.5" y2="4.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"></line>
+    </g>
+  </symbol>
+</svg>
