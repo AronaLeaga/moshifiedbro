@@ -633,7 +633,7 @@ a {
 /* NAVIGATION BAR */
 
 .nav{
-    background: rgb(24, 108, 157);
+    background: black;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
