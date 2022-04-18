@@ -14,6 +14,11 @@
 
 }
 /* TYPOGRAPHY */
+::selection {
+    background: var(--color-primary);
+    color: white;
+}
+
 html {
     /*  62.5% of 16px = 10px */
     font-size: 62.5%;
@@ -180,7 +185,7 @@ a {
     fill: white;
 }
 .icon-container {
-    background: grey;
+    background: rgba(193, 190, 190, 0.137);
     width: 64px;
     height: 64px;
     border-radius: 100%;
@@ -397,6 +402,7 @@ a {
 
     .media {
         display: flex;
+        margin-bottom: 4rem;
         
     }
     .media__title {
