@@ -53,11 +53,11 @@
         </header>
         <picture data-aos="fade-right">
         <source type="images/webp" 
-        srcset="images/banner.webp, images/banner2x.webp, images/banner3x.webp"/>
+        srcset="images/banner.webp, images/banner2x.webp 2x, images/banner3x.webp 3x"/>
         
         <source
         type="images/png"
-        srcset="images/banner.png, images/banner2x.png, images/banner3x.png"
+        srcset="images/banner.png, images/banner2x.png 2x, images/banner3x.png 3x"
       />
         
           <img class="hero__image" src="/images/banner.png" alt="" />
@@ -81,12 +81,12 @@
         </svg>Search</button>
     </div>
       <ul class="list block-domain__prices">
-        <list><span class="badge badge--secondary">.com $9</span></list>
-        <list>.sg $10</list>
-        <list>.space $11</list>
-        <list>.info $14</list>
-        <list>.net $10</list>
-        <list>.xyz $10</list>
+        <li><span class="badge badge--secondary">.com $9</span></li>
+        <li>.sg $10</li>
+        <li>.space $11</li>
+        <li>.info $14</li>
+        <li>.net $10</li>
+        <li>.xyz $10</li>
       </ul>
     </section>
     <section class="block container block-plans">
@@ -314,7 +314,7 @@
 </section>
 <!-- TESTIMONIAL -->
 
-<body>
+
   <div class="card testimonial"> 
         <div class="grid grid--1x2">
         <div class="testimonial__image" data-aos="zoom-in">
@@ -347,21 +347,21 @@
         </div>
   </div>
   </div>
-</div>
-</body>
+
+
         <!-- FOOTER -->
 
         <footer class="block block--dark footer">
           <div class="container grid footer__sections">
             <section class="collapsible collapsible--expanded footer__section">
-              <header class="collapsible__header">
+              <div class="collapsible__header">
                 <h2 class="collapsible__heading footer__heading">PRODUCTS</h2>
            
                  <svg class="icon icon--white collapsible__chevron">
                      <use xlink:href="/images/sprite.svg#chevron"></use>
                  </svg>
            
-              </header>
+              </div>
               <div class="collapsible__content">
                 <!--  -->
              <ul class="list">
@@ -372,14 +372,14 @@
               </div>
              </section>
              <section class="collapsible footer__section">
-              <header class="collapsible__header">
+              <div class="collapsible__header">
                 <h2 class="collapsible__heading footer__heading">COMPANY</h2>
            
                  <svg class="icon icon--white collapsible__chevron">
                      <use xlink:href="/images/sprite.svg#chevron"></use>
                  </svg>
            
-              </header>
+              </div>
               <div class="collapsible__content">
                 <ul class="list">
                   <li> <a href="#">About</a></li>
@@ -390,14 +390,14 @@
               </div>
              </section>
              <section class="collapsible footer__section">
-              <header class="collapsible__header">
+              <div class="collapsible__header">
                 <h2 class="collapsible__heading footer__heading">SUPPORT</h2>
            
                  <svg class="icon icon--white collapsible__chevron">
                      <use xlink:href="/images/sprite.svg#chevron"></use>
                  </svg>
            
-              </header>
+              </div>
               <div class="collapsible__content">
                 <ul class="list">
                   <li> <a href="#">Contact</a></li>
@@ -408,14 +408,14 @@
               </div>
              </section>
              <section class="collapsible footer__section">
-              <header class="collapsible__header">
+              <div class="collapsible__header">
                 <h2 class="collapsible__heading footer__heading">DOMAINS</h2>
            
                  <svg class="icon icon--white collapsible__chevron">
                      <use xlink:href="/images/sprite.svg#chevron"></use>
                  </svg>
            
-              </header>
+              </div>
               <div class="collapsible__content">
                 <ul class="list">
                   <li> <a href="#">Domain</a></li>
@@ -429,23 +429,18 @@
              
               <!--  -->
       
-             <section class="footer__brand">
+             <div class="footer__brand">
                <img src="/images/logo.svg" alt="">
                <p class="footer__copyright">Copyright 2020 Arona Leaga</p>
-             </section>
+             </div>
       
           </div>
         </footer>
-
-
-
-
-
-    <script src="/js/main.js"></script>
+ <script src="/js/main.js"></script>
      <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
   <script>
     AOS.init();
   </script>
-  </body>
 
+</body>
 </html>
